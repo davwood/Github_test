@@ -1,1 +1,1 @@
-The 'upstream' remote is a naming convention of a git remote used to pull updates from the original repository. You will normally have 'forked' the original repository to your own version. The link to the forked version (where you will have read/write access) is usually named 'origin' by convention.
+Explain what the "upstream" remote is usually used for, in your own words.
