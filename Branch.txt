@@ -1,1 +1,2 @@
-Explain what a branch is, in your own words.
+A branch is a way of editing your repository information (files/folders) in a separate area to your normal 'master' branch. So you could create a new 'Updates' branch and work in this area updating your files and committing changes. These changes will be separate to the master.
+Later, you could then merge the changes from 'Updates' into the 'master' branch. This will work fine assuming there are no conflicts (that will need manual resolution).
